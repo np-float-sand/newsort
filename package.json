@@ -1,0 +1,11 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergesort.js",
+  "scripts": {
+    "test": "mergesort.spec.js && testem"
+  },
+  "author": "",
+  "license": "ISC"
+}
